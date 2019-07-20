@@ -1,0 +1,8 @@
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Debug\AutoTests6Examples.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Debug\AutoTests6Examples.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Debug\WebDriver.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Debug\WebDriver.Support.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Debug\WebDriver.xml
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Debug\WebDriver.Support.xml
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\obj\Debug\AutoTests6Examples.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\obj\Debug\AutoTests6Examples.pdb

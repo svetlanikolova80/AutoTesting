@@ -1,0 +1,9 @@
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Release\AutoTests6Examples.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Release\AutoTests6Examples.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Release\WebDriver.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Release\WebDriver.Support.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Release\WebDriver.xml
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\bin\Release\WebDriver.Support.xml
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\obj\Release\AutoTests6Examples.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\obj\Release\AutoTests6Examples.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\AutoTests6Examples\AutoTests6Examples\obj\Release\AutoTests6Examples.csprojResolveAssemblyReference.cache
